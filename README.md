@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SaiKishore P
+👋 Hi, I'm SaiKishore P
 
 🎓 Information Science Engineering Student
 💻 Interested in AI, Machine Learning & Software Development
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Skills
+🧠 Skills
 
 🐍 Python • ☕ Java • 🗄️ SQL
 📊 Data Structures & Algorithms
@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 Projects
+📂 Projects
 
 📊 Dataset Practice Repository
 🪨 Crusher Tonnage Java Desktop Application
@@ -22,7 +22,7 @@
 
 ---
 
-## 📫 Connect with Me
+📫 Connect with Me
 
 📧 Email: [saikishor143p@gmail.com](mailto:saikishor143p@gmail.com)
 💼 LinkedIn: https://www.linkedin.com/in/saikishorep15/
