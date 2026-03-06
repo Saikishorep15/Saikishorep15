@@ -14,11 +14,12 @@
 
 ---
 
-📂 Projects
+## 📂 Projects
 
-📊 Dataset Practice Repository
-🪨 Crusher Tonnage Java Desktop Application
-📱 Nexsure App
+• 📊 Dataset Practice Repository
+• 🪨 Crusher Tonnage Java Desktop Application
+• 📱 Nexsure App
+
 
 ---
 
