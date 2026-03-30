@@ -1,3 +1,8 @@
+<!-- PREMIUM HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=SaiKishore%20P&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm SaiKishore P</h1>
 <h3 align="center">🚀 Aspiring AI Solutions Architect | Software Engineer</h3>
 
@@ -11,7 +16,7 @@
 - 🎓 Information Science Engineering Student  
 - 💡 Passionate about AI, Machine Learning & Scalable Systems  
 - 🚀 Building real-world projects like **Nexsure** & **Crusher Tonnage System**  
-- 📈 Constantly learning & improving in **AI + Software Engineering**  
+- 📈 Constantly improving in **AI + Software Engineering**  
 - 🎯 Goal: Become a top-tier AI Solutions Architect  
 
 ---
@@ -38,15 +43,15 @@
 ### 🔹 Crusher Tonnage System
 - Java Desktop Application  
 - Database Integration & Print Automation  
-- Solves real-world industrial tracking problems  
+- Real-world industrial solution  
 
 ### 🔹 Nexsure App
-- AI-powered intelligent application  
-- Focused on automation & smart decision-making  
+- AI-powered intelligent system  
+- Focused on automation & decision-making  
 
 ### 🔹 Dataset Practice Repo
 - Machine Learning datasets & experiments  
-- Hands-on practice with real-world data  
+- Hands-on real-world data practice  
 
 ---
 
@@ -55,18 +60,15 @@
 <p align="center">
 
 <a href="mailto:saikishor143p@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF4B2B?style=for-the-badge&logo=gmail&logoColor=white" 
-       style="margin: 8px; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/Email-FF512F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 
 <a href="https://www.linkedin.com/in/saikishorep15">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-       style="margin: 8px; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 
 <a href="https://github.com/Saikishorep15">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" 
-       style="margin: 8px; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 </p>
@@ -77,5 +79,9 @@
 💡 I love turning ideas into real-world impactful software solutions.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
 
 ⭐ **"Code. Learn. Build. Repeat."**
