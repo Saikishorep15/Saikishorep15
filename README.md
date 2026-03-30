@@ -53,17 +53,23 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:saikishor143p@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/saikishorep15">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Saikishorep15">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
 
+<a href="mailto:saikishor143p@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF4B2B?style=for-the-badge&logo=gmail&logoColor=white" 
+       style="margin: 8px; border-radius: 8px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/saikishorep15">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       style="margin: 8px; border-radius: 8px;" />
+</a>
+
+<a href="https://github.com/Saikishorep15">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" 
+       style="margin: 8px; border-radius: 8px;" />
+</a>
+
+</p>
 ---
 
 ## ⚡ Fun Fact
