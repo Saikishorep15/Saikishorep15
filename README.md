@@ -2,52 +2,94 @@
 <h3 align="center">🚀 Aspiring AI Solutions Architect | Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-🎓 Information Science Engineering Student  
-💡 Passionate about AI, ML & Software Development  
-🚀 Building real-world projects like Nexsure & Crusher System  
-📈 Continuously learning and improving  
+- 🎓 Information Science Engineering Student  
+- 💡 Passionate about AI, Machine Learning & Scalable Systems  
+- 🚀 Building real-world projects like **Nexsure** & **Crusher Tonnage System**  
+- 📈 Constantly learning & improving in **AI + Software Engineering**  
+- 🎯 Goal: Become a top-tier AI Solutions Architect  
 
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![DSA](https://img.shields.io/badge/DSA-green?style=for-the-badge)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github" />
+</p>
+
+---
+
+## 🧠 Core Skills
+- 🤖 Machine Learning & AI Fundamentals  
+- 💻 Data Structures & Algorithms  
+- 🌐 Full Stack Development  
+- 🗄 Database Design & Optimization  
+- ⚡ Problem Solving  
 
 ---
 
 ## 📊 GitHub Stats
-![SaiKishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Saikishorep15&theme=tokyonight)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saikishorep15&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Projects
-🔹 **Crusher Tonnage System** – Java Desktop App with DB & Printing  
-🔹 **Nexsure App** – Smart AI-based application  
-🔹 **Dataset Practice Repo** – ML datasets & experiments  
+
+### 🔹 Crusher Tonnage System
+- Java Desktop Application  
+- Database Integration & Print Automation  
+- Solves real-world industrial tracking problems  
+
+### 🔹 Nexsure App
+- AI-powered intelligent application  
+- Focused on automation & smart decision-making  
+
+### 🔹 Dataset Practice Repo
+- Machine Learning datasets & experiments  
+- Hands-on practice with real-world data  
 
 ---
 
 ## 🌐 Connect with Me
-📧 Email: saikishor143p@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/saikishorep15  
-💻 GitHub: https://github.com/Saikishorep15  
+
+<p align="center">
+  <a href="mailto:saikishor143p@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/saikishorep15">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Saikishorep15">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+## ⚡ Fun Fact
+💡 I love turning ideas into real-world impactful software solutions.
 
+---
+
+⭐ **"Code. Learn. Build. Repeat."**
