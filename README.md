@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -34,23 +30,6 @@
 - 🌐 Full Stack Development  
 - 🗄 Database Design & Optimization  
 - ⚡ Problem Solving  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Saikishorep15&theme=tokyonight" />
-</p>
 
 ---
 
