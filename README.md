@@ -12,9 +12,6 @@
 ## 🧑‍💻 About Me
 - 🎓 Information Science Engineering Student  
 - 💡 Passionate about AI, Machine Learning & Scalable Systems  
-- 🚀 Building real-world projects like **Nexsure** & **Crusher Tonnage System**  
-- 📈 Constantly improving in **AI + Software Engineering**  
-- 🎯 Goal: Become a top-tier AI Solutions Architect  
 
 ---
 
