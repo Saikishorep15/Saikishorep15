@@ -26,32 +26,6 @@
 
 ---
 
-## 🧠 Core Skills
-- 🤖 Machine Learning & AI Fundamentals  
-- 💻 Data Structures & Algorithms  
-- 🌐 Full Stack Development  
-- 🗄 Database Design & Optimization  
-- ⚡ Problem Solving  
-
----
-
-## 🚀 Projects
-
-### 🔹 Crusher Tonnage System
-- Java Desktop Application  
-- Database Integration & Print Automation  
-- Real-world industrial solution  
-
-### 🔹 Nexsure App
-- AI-powered intelligent system  
-- Focused on automation & decision-making  
-
-### 🔹 Dataset Practice Repo
-- Machine Learning datasets & experiments  
-- Hands-on real-world data practice  
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
