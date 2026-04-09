@@ -7,21 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Solutions" />
 </p>
 
----
 
-## 🧑‍💻 About Me
-- 🎓 Information Science Engineering Student  
-- 💡 Passionate about AI, Machine Learning & Scalable Systems  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,git,github" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
