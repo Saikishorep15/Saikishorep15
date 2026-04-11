@@ -7,6 +7,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Impactful+Solutions" />
 
 </p>
-
-
-⭐ **"Code. Learn. Build. Repeat."**
