@@ -8,13 +8,5 @@
 
 </p>
 
----
-
-## ⚡ Fun Fact
-💡 I love turning ideas into real-world impactful software solutions.
-
----
-
-
 
 ⭐ **"Code. Learn. Build. Repeat."**
