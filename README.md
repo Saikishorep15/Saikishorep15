@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SAIKISHORE%20P&fontAlign=50&fontAlignY=40&color=gradient&customColorList=24,20,17,12,30&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=AI%20Architect%20•%20Future%20Builder%20•%20Digital%20Creator&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=24,20,17,12,30&text=SAIKISHORE%20P&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20•%20Full%20Stack%20Engineer%20•%20Future%20Builder&descAlignY=60&descSize=22"/>
 
 </div>
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1000&color=C300FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=WELCOME+TO+MY+DIGITAL+UNIVERSE;AI+%7C+FULL+STACK+%7C+GENAI+ENGINEER;BUILDING+THE+FUTURE+WITH+INTELLIGENCE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2500&pause=1000&color=C300FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=🚀+WELCOME+TO+MY+DIGITAL+UNIVERSE;🤖+AI+%7C+FULL+STACK+%7C+GENAI+ENGINEER;⚡+BUILDING+THE+FUTURE+WITH+INTELLIGENCE"/>
 
 </h1>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -32,7 +40,15 @@
 
 # 🌌 WHO AM I?
 
-<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<div align="center">
+
+<img width="850" src="https://user-images.githubusercontent.com/74038190/216649436-05c7f0d5-4f31-44e4-b3b8-6d7a9d92f0c8.gif"/>
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 Name: SaiKishore P
@@ -42,21 +58,28 @@ Role:
   - Full Stack Developer
   - Future AI Architect
 
-Currently Learning:
+Current Focus:
   - Artificial Intelligence
   - Generative AI
-  - Deep Learning
   - RAG Systems
+  - Deep Learning
   - System Design
   - Cloud Engineering
 
 Mission:
-  Build futuristic AI systems that impact millions.
-
-Mindset:
-  "Ordinary developers write code.
-   Extraordinary developers build the future."
+  Build futuristic intelligent systems 
+  that impact millions of people.
 ```
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHc5cWZ0eDlyeDlpZ3F2YmF1M2M1Znl4c2g2b2Y0c3B6eDhtb3Y0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,23 +87,27 @@ Mindset:
 
 <div align="center">
 
-<img width="700" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-6f2f-4f84-9c44-0f6d1b5f0d8d.gif"/>
+<img width="900" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-6f2f-4f84-9c44-0f6d1b5f0d8d.gif"/>
 
 <br><br>
 
-<img width="700" src="https://user-images.githubusercontent.com/74038190/212749695-4f9b6d8d-fd0d-4a44-bb4f-6bc7d8dbfcb1.gif"/>
+<img width="900" src="https://user-images.githubusercontent.com/74038190/212749695-4f9b6d8d-fd0d-4a44-bb4f-6bc7d8dbfcb1.gif"/>
 
 <br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+<img width="900" src="https://user-images.githubusercontent.com/74038190/216655846-67c5f6d0-fc4e-49d3-91d6-1cbd9d8b26c9.gif"/>
 
 </div>
 
 ---
 
-# 🚀 PROJECTS THAT DEFINE ME
+# 🚀 PROJECT SHOWCASE
 
 <div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656971-9a4a6ec6-31d7-40db-89be-2b9c1d56ec7f.gif"/>
+
+</div>
 
 <table>
 
@@ -88,39 +115,47 @@ Mindset:
 
 <td width="50%">
 
-<img src="https://img.shields.io/badge/AI%20Project-PurpleCowTheory-8A2BE2?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-PROJECT-blueviolet?style=for-the-badge"/>
 
 # 🍅 Tomato Leaf Disease Detection
 
-🧠 AI-powered Agriculture Intelligence
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"/>
 
 ### ⚡ Features
 ✔ CNN Deep Learning  
-✔ Smart Disease Prediction  
+✔ Smart Disease Detection  
+✔ AI Prediction System  
 ✔ Image Classification  
-✔ Agriculture Automation  
 
-### 🛠 Tech
+### 🛠 Stack
 `Python` `TensorFlow` `OpenCV`
+
+</div>
 
 </td>
 
 <td width="50%">
 
-<img src="https://img.shields.io/badge/FullStack-Enterprise%20Level-FF00FF?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/FULLSTACK-APPLICATION-ff00ff?style=for-the-badge"/>
 
 # 🏨 Hotel Booking Platform
 
-🌐 Enterprise Full Stack Application
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 
 ### ⚡ Features
 ✔ Real-Time Booking  
-✔ Secure Authentication  
+✔ Authentication  
 ✔ Responsive UI  
 ✔ REST APIs  
 
-### 🛠 Tech
+### 🛠 Stack
 `React` `Node.js` `MongoDB`
+
+</div>
 
 </td>
 
@@ -130,39 +165,47 @@ Mindset:
 
 <td width="50%">
 
-<img src="https://img.shields.io/badge/GenAI-Next%20Generation-6A00FF?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/GENAI-NEXT%20GEN-purple?style=for-the-badge"/>
 
 # 📧 AI Email Agent
 
-🤖 Intelligent AI Email Automation
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
 ### ⚡ Features
+✔ NLP Intelligence  
 ✔ Smart Classification  
 ✔ AI Workflow  
-✔ NLP Processing  
-✔ Productivity Boost  
+✔ Automation  
 
-### 🛠 Tech
+### 🛠 Stack
 `FastAPI` `Python` `AI`
+
+</div>
 
 </td>
 
 <td width="50%">
 
-<img src="https://img.shields.io/badge/MachineLearning-Industrial%20Projects-9400D3?style=for-the-badge"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/ML-INDUSTRIAL-orange?style=for-the-badge"/>
 
 # 🤖 ML Internship Projects
 
-📚 Real-world Machine Learning Systems
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
 
 ### ⚡ Domains
 ✔ Regression  
 ✔ NLP  
-✔ Clustering  
 ✔ Computer Vision  
+✔ Clustering  
 
-### 🛠 Tech
-`Scikit-learn` `Pandas` `NumPy`
+### 🛠 Stack
+`Scikit-learn` `Pandas`
+
+</div>
 
 </td>
 
@@ -170,13 +213,15 @@ Mindset:
 
 </table>
 
-</div>
-
 ---
 
-# ⚡ MY TECH GALAXY
+# ⚡ TECH GALAXY
 
 <div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216654112-c2c1b94f-d1f5-4e0f-88fd-7df6dbf7f4b6.gif"/>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,react,nodejs,mongodb,mysql,tensorflow,pytorch,docker,firebase,git,github,vscode"/>
 
@@ -188,15 +233,15 @@ Mindset:
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF&icon_color=C300FF"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF&icon_color=C300FF"/>
 
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikishorep15&theme=midnight-purple&hide_border=true&background=0D1117&ring=C300FF&fire=C300FF"/>
+<img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikishorep15&theme=midnight-purple&hide_border=true&background=0D1117&ring=C300FF&fire=C300FF"/>
 
 </div>
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF"/>
 
 </div>
 
@@ -206,7 +251,7 @@ Mindset:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikishorep15&theme=react-dark&bg_color=0D1117&hide_border=true&line=C300FF&point=FFFFFF&color=C300FF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saikishorep15&theme=react-dark&bg_color=0D1117&hide_border=true&line=C300FF&point=FFFFFF&color=C300FF"/>
 
 </div>
 
@@ -216,7 +261,7 @@ Mindset:
 
 <div align="center">
 
-<img width="800" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-b3ed-50ac1b6d5f59.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-b3ed-50ac1b6d5f59.gif"/>
 
 </div>
 
@@ -225,20 +270,21 @@ class SaiKishore:
 
     def __init__(self):
 
-        self.title = "AI Architect"
+        self.role = "AI Architect"
 
-        self.skills = {
-            "AI": ["Machine Learning", "Deep Learning", "GenAI"],
-            "Development": ["Full Stack", "Backend", "Frontend"],
-            "Future": ["AI Agents", "RAG", "Cloud"]
-        }
+        self.skills = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Full Stack Development"
+        ]
 
-    def build_future(self):
-        return "Creating intelligent systems for tomorrow 🚀"
+    def vision(self):
+        return "Build intelligent systems for the future 🚀"
 
 developer = SaiKishore()
 
-print(developer.build_future())
+print(developer.vision())
 ```
 
 ---
@@ -247,29 +293,35 @@ print(developer.build_future())
 
 <div align="center">
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-1df94e5b-fb8f-46cb-a8dd-f4db4dc5f6e6.gif"/>
+
+</div>
+
+<div align="center">
+
 | Achievement | Status |
 |---|---|
 | Google Analytics Certified | ✅ |
 | AI Projects Built | ✅ |
 | Full Stack Applications | ✅ |
-| Hackathon Participant | ✅ |
+| Hackathon Participation | ✅ |
 | Industrial AI Learning | ✅ |
 
 </div>
 
 ---
 
-# 🐍 SNAKE EATING MY CONTRIBUTIONS
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 💭 QUOTE THAT DEFINES ME
+# 💭 DAILY INSPIRATION
 
 <div align="center">
 
@@ -283,8 +335,10 @@ print(developer.build_future())
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&color=gradient&customColorList=24,20,17,12,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&color=gradient&customColorList=24,20,17,12,30"/>
 
-# ⭐ "I DON'T JUST WRITE CODE — I DESIGN THE FUTURE." ⭐
+# ⭐ I DON'T JUST WRITE CODE — I DESIGN THE FUTURE ⭐
+
+<img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 </div>
