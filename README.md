@@ -1,9 +1,3 @@
-<!-- ================================================= -->
-<!--      🌌 CLEAN PREMIUM PURPLE COW README 🌌       -->
-<!-- ================================================= -->
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-<!-- ================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,20,17,12,30&text=SAIKISHORE%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
@@ -24,7 +18,7 @@
 <img src="https://img.shields.io/badge/Gmail-FF0033?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Saikishorep15">
 <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -32,7 +26,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-7B00FF?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Saikishorep15&style=flat-square&color=blueviolet"/>
 
 </div>
 
@@ -81,7 +75,7 @@ AI-powered healthcare platform focused on:
 ### ⚡ Stack
 `Vite` `React` `AI/ML` `Node.js`
 
-<!-- Add your GIF below -->
+<!-- Add your project GIF below -->
 <!-- ![](YOUR_BIONEXA_GIF_LINK) -->
 
 </td>
@@ -98,7 +92,7 @@ Reinforcement learning environment for:
 ### ⚡ Stack
 `Python` `OpenEnv` `RL` `AI Agents`
 
-<!-- Add your GIF below -->
+<!-- Add your project GIF below -->
 <!-- ![](YOUR_RYVOX_GIF_LINK) -->
 
 </td>
@@ -154,15 +148,15 @@ Reinforcement learning environment for:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF&icon_color=C300FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF&icon_color=C300FF"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=C300FF&fire=C300FF"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikishorep15&theme=midnight-purple&hide_border=true&background=0D1117&ring=C300FF&fire=C300FF"/>
 
 </div>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C300FF"/>
 
 </div>
 
@@ -172,7 +166,7 @@ Reinforcement learning environment for:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&line=C300FF&point=FFFFFF&color=C300FF"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saikishorep15&theme=react-dark&bg_color=0D1117&hide_border=true&line=C300FF&point=FFFFFF&color=C300FF"/>
 
 </div>
 
