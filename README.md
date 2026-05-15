@@ -1,57 +1,62 @@
-<h1 align="center">Hi 👋, I'm SaiKishore P</h1>
-
-<h3 align="center">
-🚀 Aspiring AI Solutions Architect | Full Stack Developer | AI/ML Innovator
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=BB00FF&center=true&vCenter=true&width=1000&height=100&lines=SaiKishore+P;AI+Solutions+Architect+in+Progress;Full+Stack+Developer;Building+Future+with+AI;Welcome+to+My+Digital+Universe" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Developer;Full+Stack+Developer;Generative+AI+Explorer;Future+AI+Solutions+Architect;Building+Technology+For+The+Future" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:AA00FF,100:E100FF&height=260&section=header&text=SAIKISHORE%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20GenAI%20Engineer&descAlignY=58"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
----
-
-# 🌟 About Me
-
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🎓 Information Science Engineering Student (3rd Year)
-
-💡 Passionate about:
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Generative AI
-- Cloud Technologies
-- System Design
-
-🚀 Building Real-World AI Systems & Smart Applications
-
-🌱 Currently Learning:
-- Advanced AI/ML
-- Deep Learning
-- RAG Systems
-- AI Deployment
-- System Design
-- Cloud Computing
-
-🏆 Goal:
-> Become a world-class AI Solutions Architect and build impactful technology products.
-
----
-
-# 🧠 Live AI & Machine Learning Preview
 
 <div align="center">
 
-<img width="420" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikishor143p@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SaikishoreP15-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikishorep15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+</div>
+
+---
+
+<img align="right" alt="AI" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg3Y2Z4dDcwNnN6ODJkOXFkNzhjNXl6NnQ3M2F4c3BrY3M4N2QzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+# 🌌 About Me
+
+```yaml
+Name: SaiKishore P
+Role: AI Solutions Architect (Aspiring)
+Education: Information Science Engineering
+Focus Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Full Stack Development
+  - Cloud Technologies
+  - System Design
+
+Mission:
+  Build futuristic AI products that create real-world impact.
+```
+
+✨ Passionate about transforming ideas into intelligent systems.  
+🚀 Building scalable AI-powered applications and modern full stack platforms.  
+🧠 Exploring the future of Generative AI, RAG, AI Agents & Automation.  
+🔥 Dedicated to continuous learning and innovation.
+
+---
+
+# 🧠 AI LIVE ZONE
+
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saikishorep15&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -65,26 +70,41 @@
 <tr>
 <td width="50%">
 
-## 🏨 Hotel Booking Fullstack
+# 🏨 Hotel Booking Fullstack
 
-✨ Modern Full Stack Booking Platform  
-⚡ React + Node.js + MongoDB  
-📌 Real-time Booking  
-📌 REST APIs  
-📌 Responsive UI  
-📌 Authentication System  
+✨ Enterprise-Level Hotel Booking Platform
+
+### ⚙️ Tech Stack
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+
+### 🚀 Features
+✔ Real-Time Booking  
+✔ Authentication System  
+✔ REST APIs  
+✔ Responsive UI  
+✔ Secure Backend  
 
 </td>
 
 <td width="50%">
 
-## 🍅 Tomato Leaf Disease Detection
+# 🍅 Tomato Leaf Disease Detection
 
-🤖 AI-powered Plant Disease Prediction  
-🌱 Deep Learning Integration  
-📌 Smart Agriculture Solution  
-📌 CNN-based Detection  
-📌 Image Classification  
+🤖 AI-powered Agriculture Intelligence System
+
+### ⚙️ AI Technologies
+- Deep Learning
+- CNN Models
+- Image Processing
+
+### 🚀 Features
+✔ Disease Prediction  
+✔ Smart Agriculture  
+✔ Image Classification  
+✔ AI Detection Engine  
 
 </td>
 </tr>
@@ -92,26 +112,40 @@
 <tr>
 <td width="50%">
 
-## 📧 AI Email Agent
+# 📧 AI Email Agent
 
-🧠 AI-powered Email Classification System  
-⚡ FastAPI + AI Automation  
-📌 Smart Categorization  
-📌 Productivity Enhancement  
-📌 Intelligent AI Workflow  
+🧠 Intelligent AI Email Automation Platform
+
+### ⚙️ Technologies
+- FastAPI
+- AI Agents
+- NLP
+
+### 🚀 Features
+✔ Smart Classification  
+✔ AI Workflow Automation  
+✔ Productivity Enhancement  
+✔ Intelligent Sorting  
 
 </td>
 
 <td width="50%">
 
-## 🤖 ML Internship Projects
+# 🤖 ML Internship Projects
 
-📚 Collection of Practical ML Models  
-📌 Regression  
-📌 Clustering  
-📌 NLP  
-📌 Computer Vision  
-📌 Real-world AI Implementations  
+📚 Practical Industry-Level Machine Learning Projects
+
+### 📌 Domains
+- Regression
+- Clustering
+- NLP
+- Computer Vision
+
+### 🚀 Features
+✔ Real-World Datasets  
+✔ ML Pipelines  
+✔ Data Analysis  
+✔ Predictive Systems  
 
 </td>
 </tr>
@@ -121,50 +155,33 @@
 
 ---
 
-# ⚡ Tech Universe
+# ⚡ Tech Arsenal
 
-## 👨‍💻 Programming Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php" />
-</p>
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,php"/>
 
 ---
 
-## 🌐 Web Development
+## 🌐 Frontend & Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
 
 ---
 
 ## 🤖 AI / ML / GenAI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<div align="center">
-
-| AI Technologies |
-|---|
-| Machine Learning |
-| Deep Learning |
-| NLP |
-| Computer Vision |
-| Generative AI |
-| RAG Systems |
-
-</div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 ---
 
-## ☁️ Tools & Platforms
+## ☁️ DevOps & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,firebase,docker,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,netlify,postman"/>
+
+</div>
 
 ---
 
@@ -172,27 +189,58 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Saikishorep15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB00FF&icon_color=BB00FF"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikishorep15&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikishorep15&theme=tokyonight&hide_border=true&background=0D1117&ring=BB00FF&fire=BB00FF&currStreakLabel=BB00FF"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikishorep15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB00FF"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Universe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikishorep15&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikishorep15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB00FF&line=BB00FF&point=FFFFFF"/>
 
 </div>
+
+---
+
+# 🧬 AI Developer Mode
+
+```python
+class SaiKishore:
+
+    def __init__(self):
+        self.role = "AI Solutions Architect"
+        self.skills = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Full Stack Development"
+        ]
+
+        self.current_focus = [
+            "RAG Systems",
+            "AI Agents",
+            "Cloud Deployment",
+            "System Design"
+        ]
+
+    def mission(self):
+        return "Build intelligent systems for the future 🚀"
+
+developer = SaiKishore()
+
+print(developer.mission())
+```
 
 ---
 
@@ -203,35 +251,18 @@
 | Achievement | Status |
 |---|---|
 | Google Analytics Certified | ✅ |
-| AI & Full Stack Projects Built | ✅ |
+| AI & Full Stack Projects | ✅ |
 | Hackathon Participation | ✅ |
-| Industrial AI Learning | ✅ |
-| Open Source Contributions | ✅ |
+| Industry-Level Learning | ✅ |
+| Open Source Enthusiast | ✅ |
 
 </div>
 
 ---
 
-# 🔥 AI Developer Mode
-
-```python
-class SaiKishore:
-
-    def __init__(self):
-        self.role = "AI Solutions Architect"
-        self.languages = ["Python", "Java", "JavaScript"]
-        self.specialization = ["AI", "ML", "GenAI", "Full Stack"]
-        self.goal = "Build futuristic AI systems"
-
-    def introduce(self):
-        print("Welcome to my GitHub Universe 🚀")
-```
-
----
-
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:saikishor143p@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -241,42 +272,48 @@ class SaiKishore:
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-# 💡 Inspirational Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
+# 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=PROFILE+VIEWS&color=BB00FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💭 Inspirational Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:AA00FF,100:E100FF&height=220&section=footer"/>
 </p>
 
-<h2 align="center">⭐ Code • Create • Innovate • Transform ⭐</h2>
+<h2 align="center">
+⭐ BUILD • INNOVATE • TRANSFORM • REDEFINE ⭐
+</h2>
