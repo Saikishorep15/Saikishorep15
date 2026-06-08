@@ -27,7 +27,7 @@ src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack
 
 <img
 src="https://github.com/user-attachments/assets/779c2bfa-f729-4bd1-bb92-dd014fa0829b"
-width="4450"
+width="330"
 />
 
 </td>
