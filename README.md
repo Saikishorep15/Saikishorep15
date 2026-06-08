@@ -25,10 +25,8 @@ src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack
 <tr>
 <td bgcolor="#001F3F" align="center">
 
-<img
-src="https://github.com/user-attachments/assets/779c2bfa-f729-4bd1-bb92-dd014fa0829b"
-width="330"
-/>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/32112d74-1c10-45d3-9a81-f8424877a707" />
+
 
 </td>
 </tr>
