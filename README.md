@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Title -->
 <h1>
-  Hi 👋, I'm SaiKishore P
+Hi 👋, I'm SaiKishore P
 </h1>
 
-<!-- Subtitle -->
 <h3>
 🚀 Aspiring AI Solutions Architect | Full Stack Developer | Software Engineer
 </h3>
-<!-- Typing Animation -->
+
+
 <img
 src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;GenAI+%26+Cloud+Enthusiast;Open+Source+Contributor;Future+AI+Solutions+Architect&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=28"
 />
@@ -18,15 +17,33 @@ src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack
 <br><br>
 
 
-<!-- Profile Banner Image Card -->
+<!-- Peace Coder Banner -->
 <table>
 <tr>
-<td bgcolor="#001F3F" align="center">
+<td align="center">
+
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&text=⚡%20Peace%20Coder%20⚡&fontSize=35&fontColor=ffffff"
+/>
+
+
+<br>
+
 
 <img
 src="https://github.com/user-attachments/assets/779c2bfa-f729-4bd1-bb92-dd014fa0829b"
-width="330"
+width="300"
 />
+
+
+<br>
+
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:001F3F,100:00BFFF&text=</>%20PEACE%20CODER%20</>&fontSize=30&fontColor=ffffff"
+/>
+
 
 </td>
 </tr>
@@ -36,9 +53,8 @@ width="330"
 <br>
 
 
-<!-- Short Intro -->
 <h3>
-💻 Building Intelligent Software | 🤖 Exploring AI | ☁️ Learning Cloud
+💻 Peace Coder | 🤖 AI Explorer | ☁️ Cloud Learner
 </h3>
 
 
