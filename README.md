@@ -11,7 +11,8 @@
 </h3>
 <!-- Typing Animation -->
 <img
-src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;GenAI+%26+Cloud+Enthusiast;Open+Source+Contributor;Future+AI+Solutions+Architect&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=28"
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/b023dbce-56c2-4958-8963-93fe9adef2db" />
+
 />
 <br><br>
 <!-- Profile Banner Image Card -->
