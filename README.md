@@ -17,18 +17,19 @@ src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack
 <br><br>
 
 
-<!-- Peace Coder Banner -->
+<!-- Peace Coder Card -->
 <table>
 <tr>
-<td align="center">
+<td align="center" bgcolor="#001F3F">
 
 
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&text=⚡%20Peace%20Coder%20⚡&fontSize=35&fontColor=ffffff"
-/>
+<h2>
+⚡ PEACE CODER ⚡ PEACE CODER ⚡ PEACE CODER ⚡
+</h2>
 
-
-<br>
+<h3>
+&lt;/&gt; 0101 | AI | CODE | BUILD | CREATE | 1010 &lt;/&gt;
+</h3>
 
 
 <img
@@ -37,12 +38,13 @@ width="300"
 />
 
 
-<br>
+<h3>
+⚡ CODE • DEBUG • INNOVATE • REPEAT ⚡
+</h3>
 
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:001F3F,100:00BFFF&text=</>%20PEACE%20CODER%20</>&fontSize=30&fontColor=ffffff"
-/>
+<h2>
+🚀 PEACE CODER 🚀 PEACE CODER 🚀
+</h2>
 
 
 </td>
@@ -53,9 +55,9 @@ src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:001F3F,10
 <br>
 
 
-<h3>
-💻 Peace Coder | 🤖 AI Explorer | ☁️ Cloud Learner
-</h3>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=500&lines=💻+Peace+Coder;🤖+AI+Explorer;☁️+Cloud+Learner"
+/>
 
 
 </div>
