@@ -8,7 +8,7 @@
 🚀 Aspiring AI Solutions Architect | Full Stack Developer | Software Engineer
 </h3>
 <!-- Typing Animation -->
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b023dbce-56c2-4958-8963-93fe9adef2db" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/b023dbce-56c2-4958-8963-93fe9adef2db" />
 <br><br>
 </td>
 </tr>
