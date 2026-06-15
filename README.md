@@ -15,7 +15,6 @@
 src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;GenAI+%26+Cloud+Enthusiast;Open+Source+Contributor;Future+AI+Solutions+Architect&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=28"
 />
 <br><br>
-
 <h3>
 💻 Building Intelligent Software | 🤖 Exploring AI | ☁️ Learning Cloud
 </h3>
