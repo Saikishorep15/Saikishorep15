@@ -16,6 +16,10 @@ src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack
 />
 <br><br>
 
+<h3>
+💻 Building Intelligent Software | 🤖 Exploring AI | ☁️ Learning Cloud
+</h3>
+
 
 <!-- Profile Banner Image Card -->
 <table>
@@ -34,9 +38,6 @@ src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack
 
 
 <!-- Short Intro -->
-<h3>
-💻 Building Intelligent Software | 🤖 Exploring AI | ☁️ Learning Cloud
-</h3>
 
 
 </div>
