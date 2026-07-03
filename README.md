@@ -3,7 +3,6 @@
 <h1>
   Hi 👋, I'm SaiKishore P
 </h1>
-
 <!-- Subtitle -->
 <h3>
 🚀 Aspiring AI Solutions Architect | Full Stack Developer | Software Engineer
