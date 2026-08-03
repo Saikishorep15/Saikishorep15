@@ -19,7 +19,6 @@
 <tr>
 <td bgcolor="#001F3F" align="center">
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/32112d74-1c10-45d3-9a81-f8424877a707" />
 
 
 </td>
