@@ -8,6 +8,10 @@
 🚀 Aspiring AI Solutions Architect | Full Stack Developer | Software Engineer
 </h3>
 
+<!-- Typing Animation -->
+<img
+src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;GenAI+%26+Cloud+Enthusiast;Open+Source+Contributor;Future+AI+Solutions+Architect&center=true&width=700&height=45&color=00BFFF&vCenter=true&pause=1000&size=28"
+/>
 
 <h3>
 💻 Building Intelligent Software | 🤖 Exploring AI | ☁️ Learning Cloud
@@ -19,6 +23,7 @@
 <tr>
 <td bgcolor="#001F3F" align="center">
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/32112d74-1c10-45d3-9a81-f8424877a707" />
 
 
 </td>
