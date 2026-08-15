@@ -48,13 +48,6 @@ Building intelligent systems and turning ideas into practical AI applications.
 <br><br>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
-
-<img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=PROFILE%20VIEWS&color=00ff66&style=for-the-badge">
-
-</div>
-
----
-
 # `> SYSTEM.INFO`
 
 ```text
