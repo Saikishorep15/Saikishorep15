@@ -14,11 +14,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;AI+Agents+%7C+Production+AI;Turning+Ideas+into+AI+Applications" />
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=PROFILE%20VIEWS&color=00FF66&style=for-the-badge" />
-
-</div>
-
 ---
 
 # 👨‍💻 About Me
