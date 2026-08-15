@@ -1,101 +1,53 @@
-<!-- ========================================================= -->
-<!--                    SAIKISHORE P                           -->
-<!--                 GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<br>
-
-<table>
-<tr>
-
-<td width="58%" align="center" valign="middle">
-
 <pre>
- ███████╗ █████╗ ██╗██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
- ██╔════╝██╔══██╗██║██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
- ███████╗███████║██║█████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗
- ╚════██║██╔══██║██║██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝
- ███████║██║  ██║██║██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
- ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+███████╗ █████╗ ██╗██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
+██╔════╝██╔══██╗██║██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝
+███████╗███████║██║█████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗
+╚════██║██╔══██║██║██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝
+███████║██║  ██║██║██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗
+╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 </pre>
 
-</td>
+<h3>AI ENGINEER • GENERATIVE AI • MACHINE LEARNING • LLMs</h3>
 
-<td width="42%" align="center" valign="middle">
-
-<pre>
-┌──────────────────────────────┐
-│        SYSTEM.INFO           │
-├──────────────────────────────┤
-│ USER     : SaiKishore P      │
-│ USERNAME : Saikishorep15     │
-│ ROLE     : AI / ML Engineer  │
-│ DOMAIN   : Artificial AI     │
-│ FOCUS    : GenAI • LLMs      │
-│ STATUS   : BUILDING          │
-│                              │
-│ MISSION  : BUILD → DEPLOY    │
-└──────────────────────────────┘
-</pre>
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;AI+Agents+%7C+Production+AI;Turning+Ideas+into+AI+Applications" />
 
 <br>
 
-<h2>AI / ML ENGINEER</h2>
-
-<p>
-<b>GENAI • LLMs • MACHINE LEARNING • DEEP LEARNING</b>
-</p>
-
-<p>
-Building intelligent systems and turning ideas into practical AI applications.
-</p>
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+Production+AI"
-alt="Typing animation"
-/>
-
-<br><br>
-
-<img
-src="https://komarev.com/ghpvc/?username=Saikishorep15&label=PROFILE%20VIEWS&color=00FF66&style=for-the-badge"
-alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=Saikishorep15&label=PROFILE%20VIEWS&color=00FF66&style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
 
-### `> ABOUT`
+Hi, I'm **SaiKishore P** — an Information Science student passionate about **Artificial Intelligence and Machine Learning**.
 
-<p>
-Information Science engineering student focused on
-<b>Artificial Intelligence, Machine Learning and Generative AI.</b>
-</p>
+I enjoy building practical AI applications and exploring how intelligent systems can solve real-world problems.
 
-</div>
+- 🤖 Focused on **AI / ML Engineering**
+- 🧠 Learning **Generative AI and Large Language Models**
+- 🔎 Exploring **RAG, Vector Databases and AI Agents**
+- ⚡ Building AI applications with **Python and FastAPI**
+- 🚀 Interested in **production-ready AI systems**
+- 💡 Passionate about turning ideas into working software
 
 ---
 
-## `> TECH FOCUS`
+# 🧠 AI / ML Focus
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  PYTHON       • MACHINE LEARNING       • DEEP LEARNING       │
-│  GENAI        • LLMs                   • RAG                 │
-│  AI AGENTS    • NLP                    • COMPUTER VISION     │
-│  FASTAPI      • DOCKER                 • CLOUD               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│  GENERATIVE AI       ████████████████████░░               │
+│  LLMs                ███████████████████░░░               │
+│  RAG                 ██████████████████░░░░               │
+│  MACHINE LEARNING    █████████████████████░               │
+│  DEEP LEARNING      ███████████████████░░░               │
+│  AI AGENTS           ████████████████░░░░░               │
+│  COMPUTER VISION     ███████████████░░░░░░               │
+│  NLP                 █████████████████░░░░               │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
