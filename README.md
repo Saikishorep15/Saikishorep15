@@ -132,57 +132,6 @@ My long-term goal is to become an **AI Engineer capable of designing, developing
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
----
-
-# `> FEATURED_PROJECTS`
-
-## 🤖 HealthAI Predict
-
-AI-powered healthcare application focused on intelligent symptom analysis and personalized information.
-
-```text
-STACK → React • JavaScript • AI/ML • APIs
-```
-
----
-
-## 💻 TRYCODE
-
-Interactive programming learning platform with lessons, coding challenges, quizzes and a browser-based coding playground.
-
-```text
-STACK → React • TypeScript • Tailwind CSS • Monaco Editor • Pyodide
-```
-
----
-
-## 🎓 CodeCampus
-
-Engineering-focused learning platform designed around structured learning paths and AI Engineering education.
-
-```text
-STACK → Next.js • TypeScript • Tailwind CSS • Supabase
-```
-
----
-
-## 🧠 Generative AI Applications
-
-Exploring applications built around modern generative AI technologies.
-
-```text
-LLMs
-RAG
-Embeddings
-Vector Databases
-Prompt Engineering
-AI Agents
-AI APIs
-```
-
----
-
 # `> CONNECT`
 
 <div align="center">
