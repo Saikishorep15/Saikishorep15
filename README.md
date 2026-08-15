@@ -7,14 +7,14 @@
 
 <br>
 
-<!-- ===================== ASCII HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <table>
 <tr>
-<td width="35%">
-</td>
 
-<td width="65%" align="center">
+<!-- ===================== ASCII ===================== -->
+
+<td width="60%" align="center" valign="middle">
 
 <pre>
  ███████╗ █████╗ ██╗██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗
@@ -26,8 +26,36 @@
 </pre>
 
 </td>
+
+<!-- ===================== SYSTEM INFO ===================== -->
+
+<td width="40%" align="center" valign="middle">
+
+<pre>
+┌──────────────────────────────┐
+│        SYSTEM.INFO           │
+├──────────────────────────────┤
+│                              │
+│ USER     : SaiKishore P      │
+│ USERNAME : Saikishorep15     │
+│ ROLE     : AI / ML Engineer  │
+│ DOMAIN   : Artificial AI     │
+│ FOCUS    : GenAI • LLMs      │
+│ STATUS   : BUILDING          │
+│                              │
+│ MISSION  : BUILD → DEPLOY    │
+│                              │
+└──────────────────────────────┘
+</pre>
+
+</td>
+
 </tr>
 </table>
+
+<br>
+
+<!-- ===================== TITLE ===================== -->
 
 <h2>AI / ML ENGINEER</h2>
 
@@ -43,38 +71,49 @@ Building intelligent systems and turning ideas into practical AI applications.
 
 <!-- ===================== TYPING ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;AI+Agents+%7C+Production+AI;Turning+Ideas+into+AI+Applications">
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;AI+Agents+%7C+Production+AI;Turning+Ideas+into+AI+Applications"
+alt="Typing animation"
+/>
 
 <br><br>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
-# `> SYSTEM.INFO`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   USER       : SaiKishore P                                  │
-│   USERNAME   : Saikishorep15                                 │
-│   ROLE       : AI / ML Engineer                              │
-│   DOMAIN     : Artificial Intelligence                       │
-│   FOCUS      : GenAI • LLMs • Machine Learning               │
-│                                                              │
-│   STATUS     : BUILDING                                      │
-│                                                              │
-│   MISSION    : BUILD → LEARN → DEPLOY → SCALE                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img
+src="https://komarev.com/ghpvc/?username=Saikishorep15&label=PROFILE%20VIEWS&color=00FF66&style=for-the-badge"
+alt="Profile views"
+/>
+
+</div>
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
+
 # `> ABOUT_ME`
 
-Hi! I'm **SaiKishore P**, an Information Science engineering student passionate about **Artificial Intelligence and Machine Learning**.
+<div align="center">
 
-I enjoy building practical software systems powered by machine learning, generative AI and modern development technologies.
+<p>
+Hi! I'm <b>SaiKishore P</b>, an Information Science engineering student
+passionate about <b>Artificial Intelligence and Machine Learning</b>.
+</p>
 
-```text
+<p>
+I enjoy building practical software systems powered by machine learning,
+generative AI and modern development technologies.
+</p>
+
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<div align="center">
+
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                     CURRENT FOCUS                            │
 ├──────────────────────────────────────────────────────────────┤
@@ -91,15 +130,19 @@ I enjoy building practical software systems powered by machine learning, generat
 │  → Production AI Systems                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
 
-My long-term goal is to become an **AI Engineer capable of designing, developing and deploying production-ready intelligent systems.**
+</div>
 
 ---
 
+<!-- ===================== AI ENGINEERING STACK ===================== -->
+
 # `> AI_ENGINEERING_STACK`
 
-```text
+<div align="center">
+
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  PYTHON          ████████████████████████░░                 │
@@ -114,13 +157,19 @@ My long-term goal is to become an **AI Engineer capable of designing, developing
 │  CLOUD           ██████████░░░░░░░░░░░░░░                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
+
+</div>
 
 ---
 
+<!-- ===================== CURRENTLY BUILDING ===================== -->
+
 # `> CURRENTLY_BUILDING`
 
-```text
+<div align="center">
+
+<pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  [01]  AI APPLICATIONS                                      │
@@ -131,30 +180,45 @@ My long-term goal is to become an **AI Engineer capable of designing, developing
 │  [06]  AI SAAS APPLICATIONS                                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
 # `> CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/Saikishorep15">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66">
+<img
+src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66"
+alt="GitHub"
+/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66">
+<img
+src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66"
+alt="LinkedIn"
+/>
 </a>
 
 </div>
 
 ---
 
----
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
 <br>
 
-```text
+<pre>
 ══════════════════════════════════════════════════════════════
 
                     S A I K I S H O R E
@@ -164,7 +228,7 @@ My long-term goal is to become an **AI Engineer capable of designing, developing
                     SYSTEM ONLINE ✓
 
 ══════════════════════════════════════════════════════════════
-```
+</pre>
 
 ### `BUILD • LEARN • DEPLOY • SCALE`
 
