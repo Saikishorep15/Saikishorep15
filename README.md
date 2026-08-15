@@ -1,3 +1,8 @@
+<!-- ========================================================= -->
+<!--                    SAIKISHORE P                           -->
+<!--                 GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
+
 <div align="center">
 
 <br>
@@ -24,7 +29,6 @@
 ┌──────────────────────────────┐
 │        SYSTEM.INFO           │
 ├──────────────────────────────┤
-│                              │
 │ USER     : SaiKishore P      │
 │ USERNAME : Saikishorep15     │
 │ ROLE     : AI / ML Engineer  │
@@ -33,7 +37,6 @@
 │ STATUS   : BUILDING          │
 │                              │
 │ MISSION  : BUILD → DEPLOY    │
-│                              │
 └──────────────────────────────┘
 </pre>
 
@@ -49,6 +52,12 @@
 <p>
 <b>GENAI • LLMs • MACHINE LEARNING • DEEP LEARNING</b>
 </p>
+
+<p>
+Building intelligent systems and turning ideas into practical AI applications.
+</p>
+
+<br>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+Production+AI"
@@ -68,26 +77,25 @@ alt="Profile views"
 
 <div align="center">
 
-<pre>
-┌──────────────────────────────────────────────────────────────┐
-│                         SAIKISHORE                            │
-│                                                              │
-│                    AI / ML ENGINEER                          │
-│                                                              │
-│       GENAI • LLMs • RAG • AI AGENTS • ML • DL              │
-└──────────────────────────────────────────────────────────────┘
-</pre>
+### `> ABOUT`
+
+<p>
+Information Science engineering student focused on
+<b>Artificial Intelligence, Machine Learning and Generative AI.</b>
+</p>
 
 </div>
 
 ---
 
-## `> CURRENT_FOCUS`
+## `> TECH FOCUS`
 
 ```text
-GENAI        → Large Language Models
-LLMs         → RAG • Embeddings • Vector Search
-AI AGENTS    → Intelligent AI Workflows
-ML           → Machine Learning • Deep Learning
-APIs         → FastAPI • AI Integration
-DEPLOYMENT   → Docker • Cloud
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  PYTHON       • MACHINE LEARNING       • DEEP LEARNING       │
+│  GENAI        • LLMs                   • RAG                 │
+│  AI AGENTS    • NLP                    • COMPUTER VISION     │
+│  FASTAPI      • DOCKER                 • CLOUD               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
