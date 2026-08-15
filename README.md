@@ -31,19 +31,3 @@ I enjoy building practical AI applications and exploring how intelligent systems
 - 💡 Passionate about turning ideas into working software
 
 ---
-
-# 🧠 AI / ML Focus
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│  GENERATIVE AI       ████████████████████░░               │
-│  LLMs                ███████████████████░░░               │
-│  RAG                 ██████████████████░░░░               │
-│  MACHINE LEARNING    █████████████████████░               │
-│  DEEP LEARNING      ███████████████████░░░               │
-│  AI AGENTS           ████████████████░░░░░               │
-│  COMPUTER VISION     ███████████████░░░░░░               │
-│  NLP                 █████████████████░░░░               │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
