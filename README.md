@@ -199,43 +199,6 @@ AI APIs
 
 ---
 
-# `> TERMINAL`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  SaiKishore@AI:~$ whoami                                     │
-│                                                              │
-│  > AI Engineer in Progress                                   │
-│                                                              │
-│  SaiKishore@AI:~$ skills --current                           │
-│                                                              │
-│  > Python                                                    │
-│  > Machine Learning                                          │
-│  > Deep Learning                                             │
-│  > Generative AI                                             │
-│  > LLMs                                                      │
-│  > RAG                                                       │
-│  > AI Agents                                                 │
-│  > FastAPI                                                   │
-│  > Docker                                                    │
-│                                                              │
-│  SaiKishore@AI:~$ status                                     │
-│                                                              │
-│  > BUILDING INTELLIGENT SYSTEMS...                           │
-│                                                              │
-│  SaiKishore@AI:~$ ./future.sh                               │
-│                                                              │
-│  > EXECUTING...                                              │
-│  > LEARNING...                                               │
-│  > BUILDING...                                               │
-│  > DEPLOYING...                                              │
-│                                                              │
-│  SYSTEM STATUS : ONLINE ✓                                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
